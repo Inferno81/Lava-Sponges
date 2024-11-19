@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "lava-sponges:lava_sponge",
+    "lava-sponges:soaked_lava_sponge"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "lava-sponges",
+  "version": "${version}",
+  "name": "Lava Sponges",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/lava-sponges/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.sophie.LavaSponges"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
